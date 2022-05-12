@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LiveDataDemo</string>
+    <string name="standard_count_value">0</string>
+    <string name="finished">Finished!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="milliseconds">Milliseconds</string>
+    <string name="invalid_number">Invalid Number</string>
 </resources>
